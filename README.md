@@ -1,4 +1,4 @@
-# Friendly Collaboration Party
+# Friendly Collaboration Party (hurray!)
 
 This repository is for planning a party to learn GitHub and more!
 
@@ -12,4 +12,3 @@ I'd really like for you to bring a few more people along to join in.
 
 ## Setup & Requirements
 This project requires a computer and internet.
-
