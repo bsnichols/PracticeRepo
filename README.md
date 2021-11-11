@@ -10,13 +10,5 @@ Parties are great right? Let me tell you how mine will be the very best.
 So far my team is small - just 1 person, but I'm willing to work with you!
 I'd really like for you to bring a few more people along to join in.
 
-Place you name by a bullet point below:
-
--
--
--
--
--
-
 ## Setup & Requirements
 This project requires a computer and internet.
