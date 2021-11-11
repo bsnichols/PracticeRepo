@@ -1,4 +1,4 @@
-# Friendly Collaboration Party (hurray!)
+# Friendly Second Collaboration Party (hurray!)
 
 This repository is for planning a party to learn GitHub and more!
 
